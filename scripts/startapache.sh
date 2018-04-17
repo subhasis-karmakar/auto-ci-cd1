@@ -1,2 +1,2 @@
 #!/bin/bash
-service apache2 start > /dev/null 2>&1
+#service apache2 start > /dev/null 2>&1
