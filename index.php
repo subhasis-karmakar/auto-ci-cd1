@@ -1,4 +1,4 @@
-<h1>Modified</h1>
+<h1>Modified Sample</h1>
 <hr/>
 <?php
 print "Hello World\n";
